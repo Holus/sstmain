@@ -1,0 +1,44 @@
+{
+  "_from": "cordova-plugin-apprate@^1.3.0",
+  "_id": "cordova-plugin-apprate@1.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-4HflFYuxzctnxQHYL9L5og7GVtVDQuqFX4WGXBzslln8V9/ODCafBTTtLSt+EKoIOJvL1iD5dztYkfyDn7HpBg==",
+  "_location": "/cordova-plugin-apprate",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-apprate@^1.3.0",
+    "name": "cordova-plugin-apprate",
+    "escapedName": "cordova-plugin-apprate",
+    "rawSpec": "^1.3.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.3.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-apprate/-/cordova-plugin-apprate-1.4.0.tgz",
+  "_shasum": "b4dd461c1fab83c2cad60777dd71cbc1ff101b14",
+  "_spec": "cordova-plugin-apprate@^1.3.0",
+  "_where": "C:\\Users\\Saehi\\mobile",
+  "bugs": {
+    "url": "https://github.com/pushandplay/cordova-plugin-apprate/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A plugin to provide rate this app functionality into your cordova application",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-cordovacli": "*"
+  },
+  "homepage": "https://github.com/pushandplay/cordova-plugin-apprate#readme",
+  "name": "cordova-plugin-apprate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushandplay/cordova-plugin-apprate.git"
+  },
+  "types": "./typescript/AppRate.d.ts",
+  "version": "1.4.0"
+}

@@ -1,0 +1,63 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com-sarriaroman-photoviewer": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-apprate": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-email-composer": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.1+",
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "phonegap-plugin-push": {
+      "SENDER_ID": "85075801930",
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "cordova-plugin-nativestorage": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.inspius.icymobi"
+    }
+  }
+}

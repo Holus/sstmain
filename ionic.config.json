@@ -1,0 +1,17 @@
+{
+  "name": "ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*",
+    "scss/**/*"
+  ],
+  "id": "5f0da851"
+}
